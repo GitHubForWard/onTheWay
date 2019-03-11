@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"普吉岛",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Thailand1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"曼谷",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Thailand2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"清迈",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Thailand3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"苏梅岛",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Thailand4.jpg"
+        }
+  ]
+}

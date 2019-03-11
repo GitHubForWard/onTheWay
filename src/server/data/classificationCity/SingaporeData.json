@@ -1,0 +1,19 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"新加波",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Singapore1.jpg",
+       "strategyPlace":"浅草寺 Sensoil Temple",
+       "fromCoutry":"新加披"
+    },
+    {
+      "cityId":1,
+      "cityName":"圣淘沙岛",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Singapore2.jpg",
+       "strategyPlace":"浅草寺 Sensoil Temple",
+       "fromCoutry":"新加披"
+    }
+  ]
+}

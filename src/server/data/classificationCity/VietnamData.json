@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"岘港",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"芽庄",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"胡志明市",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"下龙湾",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam4.jpg"
+        }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	"imgURL":[
+		{
+			"url":"http://localhost:8080/static/images/pictures/picture_GL01.png",
+			"id":1
+		},
+		{
+			"url":"http://localhost:8080/static/images/pictures/picture_GL02.png",
+			"id":2
+		},
+		{
+			"url":"http://localhost:8080/static/images/pictures/picture_ZY02.png",
+			"id":3
+		},
+		{
+			"url":"http://localhost:8080/static/images/pictures/shouye03.png",
+			"id":4
+		},
+		{
+			"url":"http://localhost:8080/static/images/pictures/picture_ZY03.png",
+			"id":5
+		},
+		{
+			"url":"http://localhost:8080/static/images/pictures/shouye02.png",
+			"id":6
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"首尔",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Korea1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"釜山",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Korea2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"仁川",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Korea3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"江原道",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Korea4.jpg"
+        }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "classCltData":[
+    {
+      "id":0,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL01.png",
+      "desc":"自然景观"
+    },
+    {
+      "id":1,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL02.png",
+      "desc":"历史人文"
+    },
+    {
+      "id":2,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL03.png",
+      "desc":"名俗风情"
+    },
+    {
+      "id":3,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL04.png",
+      "desc":"都市生活"
+    },
+    {
+      "id":4,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL05.png",
+      "desc":"田园风光"
+    },
+    {
+      "id":5,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL06.png",
+      "desc":"旅游度假"
+    },
+    {
+      "id":6,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL07.png",
+      "desc":"生态旅游"
+    },
+    {
+      "id":7,
+      "url":"http://localhost:8080/static/images/pictures/classification/picture_FL08.png",
+      "desc":"专项旅游"
+    }
+]
+}

@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"科伦坡",
+       "imgData":"http://localhost:8080/static/images/pictures/city/SriLanka1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"康提",
+       "imgData":"http://localhost:8080/static/images/pictures/city/SriLanka2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"斯基里亚",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"阿努拉德普勒",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia4.jpg"
+        }
+  ]
+}

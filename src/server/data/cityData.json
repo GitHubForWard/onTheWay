@@ -1,0 +1,354 @@
+{
+  "success":"success",
+  "cityArr":[
+    {
+      "countryID":0,
+      "cityMsg":[
+          {
+            "cityId":0,
+             "cityName":"杭州",
+                "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_11.png",
+                "strategyPlace":"浅草寺 Sensoil Temple",
+                "fromCoutry":"中国"
+              },
+          {
+            "cityId":1,
+             "cityName":"北京",
+             "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_11.png",
+             "strategyPlace":"付见稻荷大社 Fushi Inari Shrine",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":2,
+             "cityName":"上海",
+             "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_21.png",
+             "strategyPlace":"yuyuyu社区 Sensoil Temple",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":3,
+             "cityName":"广州",
+             "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_21.png",
+             "strategyPlace":"付见稻荷大社 Fushi Inari Shrine",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":4,
+             "cityName":"武汉",
+             "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_11.png",
+             "strategyPlace":"大理寺",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":5,
+             "cityName":"成都",
+             "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_21.png",
+             "strategyPlace":"宽窄子巷",
+             "fromCoutry":"中国"
+          }
+        ]
+    },
+    {
+      "countryID":1,
+      "cityMsg":[
+        {
+          "cityId":0,
+           "cityName":"东京",
+            "imgData":"http://localhost:8080/static/images/pictures/city/japan01.png",
+            "strategyPlace":"浅草寺 Sensoil Temple",
+            "fromCoutry":"日本"
+        }
+      ]
+    },
+    {
+      "countryID":2,
+      "cityMsg":[
+      {
+        "cityId":0,
+        "cityName":"马德望",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia1.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"柬埔寨"
+      },
+      {
+        "cityId":1,
+        "cityName":"暹粒",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia2.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"柬埔寨"
+      },
+      {
+          "cityId":2,
+          "cityName":"西哈努克市",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia3.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"柬埔寨"
+        }
+    ]
+    },
+    {
+      "countryID":3,
+      "cityMsg":[
+        {
+          "cityId":0,
+          "cityName":"首尔",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Korea1.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"韩国"
+        },
+        {
+          "cityId":0,
+          "cityName":"釜山",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Korea2.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"韩国"
+        },
+        {
+            "cityId":0,
+            "cityName":"仁川",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Korea3.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"韩国"
+          },
+          {
+              "cityId":0,
+              "cityName":"江原道",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Korea4.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"韩国"
+            }
+      ]
+    },
+    {
+      "countryID":4,
+      "cityMsg":[
+        {
+          "cityId":0,
+          "cityName":"吉隆坡",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia1.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"马来西亚"
+        },
+        {
+          "cityId":1,
+          "cityName":"沙巴",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia2.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"马来西亚"
+        },
+        {
+            "cityId":2,
+            "cityName":"北海",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia3.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"马来西亚"
+          },
+          {
+              "cityId":3,
+              "cityName":"兰卡威",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia4.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"马来西亚"
+            }
+      ]
+    },
+    {
+      "countryID":5,
+      "cityMsg":
+      [
+      {
+        "cityId":0,
+        "cityName":"新加波",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Singapore1.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"新加披"
+      },
+      {
+        "cityId":1,
+        "cityName":"圣淘沙岛",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Singapore2.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"新加披"
+      }
+    ]
+    },
+    {
+      "countryID":6,
+      "cityMsg":
+      [
+        {
+          "cityId":0,
+          "cityName":"台北",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan1.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"台湾"
+        },
+        {
+          "cityId":1,
+          "cityName":"台中",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan2.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"台湾"
+        },
+        {
+            "cityId":2,
+            "cityName":"高雄",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan3.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"台湾"
+          },
+          {
+              "cityId":3,
+              "cityName":"花莲",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan4.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"台湾"
+            }
+      ]
+    },
+    {
+      "countryID":7,
+      "cityMsg":[
+        {
+          "cityId":0,
+          "cityName":"普吉岛",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Thailand1.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"泰国"
+        },
+        {
+          "cityId":1,
+          "cityName":"曼谷",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Thailand2.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"泰国"
+        },
+        {
+            "cityId":2,
+            "cityName":"清迈",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Thailand3.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"泰国"
+          },
+          {
+              "cityId":3,
+              "cityName":"苏梅岛",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Thailand4.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"泰国"
+            }
+      ]
+    },
+    {
+      "countryID":8,
+      "cityMsg":[
+        {
+          "cityId":0,
+          "cityName":"岘港",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam1.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"越南"
+        },
+        {
+          "cityId":1,
+          "cityName":"芽庄",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam2.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"越南"
+        },
+        {
+            "cityId":2,
+            "cityName":"胡志明市",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam3.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"越南"
+          },
+          {
+              "cityId":3,
+              "cityName":"下龙湾",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam4.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"越南"
+            }
+      ]
+    },
+    {
+      "countryID":9,
+      "cityMsg":[
+          {
+            "cityId":0,
+            "cityName":"澳门",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Macau1.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":1,
+            "cityName":"花地玛堂区",
+             "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam2.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"中国"
+          },
+          {
+              "cityId":2,
+              "cityName":"圣安多尼堂区",
+               "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam3.jpg",
+               "strategyPlace":"浅草寺 Sensoil Temple",
+               "fromCoutry":"中国"
+            },
+            {
+                "cityId":3,
+                "cityName":"望德堂区",
+                 "imgData":"http://localhost:8080/static/images/pictures/city/Vietnam4.jpg",
+                 "strategyPlace":"浅草寺 Sensoil Temple",
+                 "fromCoutry":"中国"
+            }
+      ]
+    },
+    {
+      "countryID":10,
+      "cityMsg":[
+          {
+            "cityId":0,
+            "cityName":"香港",
+             "imgData":"http://localhost:8080/static/images/pictures/city/HK1.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"中国"
+          },
+          {
+            "cityId":1,
+            "cityName":"铜锣湾",
+             "imgData":"http://localhost:8080/static/images/pictures/city/HK2.jpg",
+             "strategyPlace":"浅草寺 Sensoil Temple",
+             "fromCoutry":"中国"
+          }
+      ]
+    },
+    {
+      "countryID":11,
+      "cityMsg":[
+      {
+        "cityId":0,
+        "cityName":"科伦坡",
+         "imgData":"http://localhost:8080/static/images/pictures/city/SriLanka1.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"斯里兰卡"
+      },
+      {
+        "cityId":1,
+        "cityName":"康提",
+         "imgData":"http://localhost:8080/static/images/pictures/city/SriLanka2.jpg",
+         "strategyPlace":"浅草寺 Sensoil Temple",
+         "fromCoutry":"斯里兰卡"
+      },
+      {
+          "cityId":2,
+          "cityName":"斯基里亚",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Cambodia3.jpg",
+           "strategyPlace":"浅草寺 Sensoil Temple",
+           "fromCoutry":"斯里兰卡"
+        }
+      ]
+    }
+]
+}

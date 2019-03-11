@@ -1,0 +1,13 @@
+{
+"strategyArr":[
+  {
+      "id":0,
+      "name":"san",
+      "icon":"http://localhost:8080/static/images/headPic/haoyou_01.png",
+      "fromWhere":"路上 lushang.com",
+      "strategyDesc":"诚然，独乐乐不如众乐乐。桃花源深处，大可呼朋引伴，或邀知己二三，或与爱人携手同行，亦或一人暴走一城，从此与旅行箱结盟。从一座城到另一座城，从你的城到他的城，又或者从城市入乡野，从乡野入倾城，行走在路上，谁说...",
+      "desImg":"http://localhost:8080/static/images/pictures/shouye01.png",
+      "updateTime":"3分钟"
+  }
+]
+}

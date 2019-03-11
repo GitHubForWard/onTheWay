@@ -1,0 +1,27 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"京都",
+       "imgData":"http://localhost:8080/static/images/pictures/city/japan01.png"
+    },
+    {
+      "cityId":1,
+      "cityName":"札幌",
+       "imgData":"http://localhost:8080/static/images/pictures/city/liaotian31.png"
+    },
+    {
+        "cityId":2,
+        "cityName":"函館",
+         "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_11.png"
+    },
+    {
+        "cityId":3,
+        "cityName":"小樽市",
+         "imgData":"http://localhost:8080/static/images/pictures/city/liaotian_21.png"
+    }
+
+
+  ]
+}

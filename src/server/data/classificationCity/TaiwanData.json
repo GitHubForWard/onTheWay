@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"台北",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"台中",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"高雄",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"花莲",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Taiwan4.jpg"
+        }
+  ]
+}

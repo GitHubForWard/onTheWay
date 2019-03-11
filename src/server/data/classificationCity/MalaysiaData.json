@@ -1,0 +1,25 @@
+{
+  "mesg":"success",
+  "cityDataArr":[
+    {
+      "cityId":0,
+      "cityName":"吉隆坡",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia1.jpg"
+    },
+    {
+      "cityId":1,
+      "cityName":"沙巴",
+       "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia2.jpg"
+    },
+    {
+        "cityId":2,
+        "cityName":"北海",
+         "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia3.jpg"
+      },
+      {
+          "cityId":3,
+          "cityName":"兰卡威",
+           "imgData":"http://localhost:8080/static/images/pictures/city/Malaysia4.jpg"
+        }
+  ]
+}

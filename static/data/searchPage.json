@@ -1,0 +1,24 @@
+{
+	"listName":[
+		{
+			"id":0,
+			"name":"长白山天池",
+			"close":"http://localhost:8080/static/images/icon/close.png"
+		},
+		{
+			"id":1,
+			"name":"王府井",
+			"close":"http://localhost:8080/static/images/icon/close.png"
+		},
+		{
+			"id":2,
+			"name":"西单",
+			"close":"http://localhost:8080/static/images/icon/close.png"
+		},
+		{
+			"id":3,
+			"name":"西岭雪山",
+			"close":"http://localhost:8080/static/images/icon/close.png"
+		}
+	]
+}
